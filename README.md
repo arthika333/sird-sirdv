@@ -6,12 +6,16 @@ The aim of this paper was to perform an in-depth study on the SIRD epidemiologic
 ### Graph generated for the SIRD model
 <img width="525" height="386" alt="image" src="https://github.com/user-attachments/assets/51822b3c-1dd7-4e39-9048-a778cb25ecdf" />
 ### Graphs generated for the SIRDV model
+
 #### α=0.00121
 <img width="525" height="383" alt="image" src="https://github.com/user-attachments/assets/a6def2b5-6742-4aa7-bc2a-d212b89646bc" />
+
 #### α=0.005
 <img width="525" height="386" alt="image" src="https://github.com/user-attachments/assets/6b90bdc2-1f0a-4f9d-bd9d-615e17930c07" />
+
 #### α=0.05
 <img width="525" height="386" alt="image" src="https://github.com/user-attachments/assets/5bea5f8d-d2e0-4a24-9d19-43e24cc80d8d" />
+
 ## Clone this repository
 ```
 git clone https://github.com/arthika333/sird-sirdv.git
